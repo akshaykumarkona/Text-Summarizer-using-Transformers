@@ -1,4 +1,4 @@
-# Text-Summarizer-using-Transformers
+# Text-Summarizer-using-Hugging-Face-Transformers
 
 This Streamlit application allows you to summarize text using a pre-trained Transformer model.
 
